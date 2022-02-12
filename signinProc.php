@@ -36,7 +36,7 @@ if($num!=0){
 if($email == $email_ && $password == $password_ ){
     $_SESSION['loggedin'] = true;
     $_SESSION['logged_id'] = $id_;
-        header("Location:loginPage.php");
+        header("Location:welcomePage.php");
     } 
 }else{
     $_SESSION['loggedin'] = false;
