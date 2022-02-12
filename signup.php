@@ -36,7 +36,7 @@ header('Location: index.php');
 <link href='https://fonts.googleapis.com/css?family=Open+Sans:400,300,300italic,400italic,600' rel='stylesheet' type='text/css'>
 <link href="//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.css" rel="stylesheet">
 <div  class="testbox">
-    <h1>Sign Up</h1>
+    <h1>Register Page</h1>
   <form id="_form" action="signupProc.php" method="post">
 
   <label id="icon" for="name"><i class="icon-user"></i></label>

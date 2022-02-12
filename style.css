@@ -182,4 +182,35 @@ input[type=text],input[type=password]{
   box-shadow: none;
   
 }
+#webcoderskull{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  padding: 0 20px;
+  width: 100%;
+  text-align: center;
+}
 
+canvas{
+  height:100vh;
+  background-color:#000000;
+}
+h2{
+letter-spacing: 5px;
+font-size: 5rem;
+font-family: 'Roboto', sans-serif;
+text-transform: uppercase;
+font-weight: bold;
+color:#483D8B
+}
+
+
+button {
+top: 3px;
+font-size: 2rem;
+
+}
+.lg{
+  
+  color:white;
+}
